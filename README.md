@@ -1,5 +1,3 @@
-# cpay-docs
-
 ## polyfill
 
 https://www.npmjs.com/package/temporal-polyfill
